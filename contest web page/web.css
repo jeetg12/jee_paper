@@ -1,0 +1,114 @@
+body{
+    background-image: url(img\ 69\ 2.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    
+   
+}
+.form:hover{
+box-shadow: 20px 20px 20px black;
+
+
+
+}
+
+#submit:hover{
+    box-shadow: 20px 20px 20px black;
+    color :rgb(255, 255, 255);
+    transition: all ease;
+    transform: scale(1.05);
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    transform-origin: right;
+    transition: all ease-in-out 0.6s;
+    background-color: rgb(93, 90, 90);
+    
+
+    
+    
+    
+}
+
+
+.form{
+
+    
+    filter: drop-shadow(20px 20px 20px rgb(0, 0, 0));
+    width: 400px;
+    height: 420px;
+    position: absolute;
+    top: 80px;
+    left: 434px;
+    text-align: center;
+    border: 2px solid rgb(160, 157, 157);
+    border-radius: 10px;
+   backdrop-filter: blur(20px);
+   font-family: "Playfair Display", serif;
+   margin-top: 50px;
+    
+
+
+}
+*{
+    font-family: "Playfair Display", serif;
+}
+#submit{
+    position: relative;
+    margin-top: 33px;
+    font-family: "Playfair Display", serif;
+    height: 40px;
+    width: 248px;
+    border-radius: 38px;
+    border: 2px solid black;
+    background-color: rgb(143 135 135);
+    color: rgb(0, 0, 0);
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    margin-bottom: 25px;
+    
+    
+}
+
+
+
+#login{
+    margin-top: 34px;
+    height: 30px;
+    width: 235px;
+    border-radius: 18px;
+    font-family: "Playfair Display", serif;
+    
+    
+
+    
+
+}
+
+
+#password{
+    margin-top: 34px;
+    height: 30px;
+    width: 235px;
+    border-radius: 18px;
+    font-family: "Playfair Display", serif;
+    
+}
+
+
+#check{
+    margin-top: 34px;
+    color: black;
+    
+}
+#forget{
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+#dont{
+    margin-bottom: 40px;
+    text-decoration: none;
+    color: black;
+}
+#ret{
+    margin-top: 50px;
+}

@@ -1,0 +1,13 @@
+h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+   
+}
+body{
+    background: linear-gradient(rgba(243, 142, 142, 0.656),rgba(121, 121, 232, 0.713));    
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+
+}

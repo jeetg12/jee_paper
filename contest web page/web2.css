@@ -1,0 +1,56 @@
+body{
+    background: linear-gradient(rgba(243, 142, 142, 0.656),rgba(121, 121, 232, 0.713));    
+    
+    }
+    
+    
+    
+        .container{
+    margin-top: 100px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around ;
+    font-family: "Playfair Display", serif;
+        
+        }
+    
+    
+    
+        #submit1{
+            display: block;
+            margin: auto;
+            border-radius: 22px;
+            height: 34px;
+            width: 115px;
+            text-decoration: none;
+            background-color: #9b82b1;
+            font-family: "Playfair Display", serif;
+        
+    
+            
+        }
+        header{
+          
+            top: 0;
+            left: 450px;
+            color: antiquewhite;
+            display: block;
+            margin: auto;
+            margin-bottom: 0;
+            font-size: 2em;
+            font-family: "Playfair Display", serif;
+            
+        }
+        #timer{
+            position: fixed;
+            top: 0;
+            right: 5px;
+            font-family: "Playfair Display", serif;
+            color: black;
+        
+        }
+        h1{
+            color: black;
+        }
+    
